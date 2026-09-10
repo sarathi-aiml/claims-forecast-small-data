@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+# runtime artefacts of the weekly loop
+claims_backup_*.csv
+learning_log.csv
+forecast_history.csv
+drift_report.csv
+predictions.csv
+.DS_Store
